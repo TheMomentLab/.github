@@ -1,4 +1,4 @@
-Just a team exploring cool robotics projects, testing ideas, and seeing where things go.
+Robotics club exploring cool robotics projects, testing ideas, and seeing where things go.
 
 ---
 
