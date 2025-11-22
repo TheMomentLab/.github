@@ -6,34 +6,9 @@ Our research integrates vision-based perception, robot control, autonomous navig
 
 ---
 
-## 🔬 Research Areas
-
-### **Vision AI & Perception**
-- Object detection  
-- Multi-object tracking  
-- Pose estimation  
-- Visual alignment  
-
-### **Robotics Control & Behavior**
-- Teleoperation  
-- Behavior modeling  
-- Autonomous task execution  
-
-### **Autonomous Navigation**
-- SLAM  
-- Planning  
-- Obstacle avoidance  
-- Multi-sensor fusion  
-
-### **Physical AI**
-- Embodied intelligence  
-- Sim-to-real transfer  
-- Synthetic data generation  
-
-### **Practical Robot Systems**
-- Service robots  
-- Telepresence robots  
-- Mobile platforms  
+## Team Members
+- **Jinhyuk Jang**  — Founder & Lead Engineer <a href="https://github.com/jinhyuk2me"><img src="https://img.shields.io/badge/github-jinhyuk2me-181717?style=flat-square&logo=github&logoColor=white"></a>
+- **Jongmyeong Kim** <a href="https://github.com/jongbob1918"><img src="https://img.shields.io/badge/github-jongbob1918-181717?style=flat-square&logo=github&logoColor=white">
 
 ---
 
