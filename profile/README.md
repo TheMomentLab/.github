@@ -1,8 +1,8 @@
-# Moment Lab
+# Moment Robotics Lab
 
 > **"Engineering the Moment of Impact."**
 
-**Moment Lab** is a research group exploring end-to-end robot systems.<br>
+**Moment Robotics Lab** is a research group exploring end-to-end robot systems.<br>
 We are committed to excellence in every tick of the system clock to achieve reliable autonomy.
 
 Our key research areas include:
