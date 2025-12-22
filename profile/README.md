@@ -19,4 +19,4 @@ Our key research areas include:
 
 ---
 
-**Contact us anytime:** jinhyuk2me@gmail.com
+**Contact us anytime:** support@momentlab.org
