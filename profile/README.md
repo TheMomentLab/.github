@@ -1,4 +1,6 @@
-![Picture](https://github.com/TheMomentLab/.github/blob/main/1770642885261.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/TheMomentLab/.github/blob/main/1770642885261.jpg?raw=true" width="50%">
+</p>
 
 # Moment Lab
 
