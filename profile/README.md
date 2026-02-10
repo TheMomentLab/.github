@@ -1,3 +1,5 @@
+![Picture](https://github.com/TheMomentLab/.github/blob/main/1770642885261.jpg?raw=true)
+
 # Moment Lab
 
 > **"Engineering Impactful Robotic Systems"**
