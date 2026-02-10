@@ -1,15 +1,13 @@
 # Moment Lab
 
-> **"Engineering the Moment of Impact."**
+> **"Engineering Impactful Robotic Systems"**
 
-**Moment Lab** is a research group exploring end-to-end robot systems.<br>
-We are committed to excellence in every tick of the system clock to achieve reliable autonomy.
+**Moment Lab** is an engineering club exploring end-to-end robotic systems.<br>
 
 Our key research areas include:
-* **Vision-based Perception**
-* **Robot Control & Manipulation**
-* **Autonomous Navigation (SLAM)**
 * **Physical AI**
+* **Autonomous Navigation (SLAM)**
+* **Sim-to-Real Transfer**
 
 ---
 
@@ -19,4 +17,5 @@ Our key research areas include:
 
 ---
 
-**Contact us anytime:** support@momentlab.org
+**Contact:** support@momentlab.org
+
