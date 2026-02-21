@@ -11,5 +11,5 @@
 
 ---
 
-**Contact:** support@momentlab.org
+**Contact:** jinhyuk2me@gmail.com
 
