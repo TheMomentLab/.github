@@ -2,12 +2,7 @@
 
 > **"Engineering Impactful Robotic Systems"**
 
-**Moment Lab** is an engineering club exploring end-to-end robotic systems.<br>
-
-Our key research areas include:
-* **Physical AI**
-* **Autonomous Navigation (SLAM)**
-* **Sim-to-Real Transfer**
+**Moment Lab** is an engineering club exploring physical ai and end-to-end robotic systems.<br>
 
 ---
 
