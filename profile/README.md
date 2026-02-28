@@ -1,6 +1,6 @@
 # Moment Lab
 
-**Moment Lab** is an engineering club exploring physical ai and end-to-end robotic systems.<br>
+**Moment Lab** is an research club exploring physical ai and end-to-end robotic systems.<br>
 
 ---
 
