@@ -1,6 +1,6 @@
 # Moment Lab
 
-**Moment Lab** is an engineering club exploring physical AI and robotics.<br>
+**Moment Lab** is an engineering club exploring AI and robotics.<br>
 
 ---
 
